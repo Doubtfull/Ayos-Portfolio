@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Couch Games",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project was my first website.",
+    "skills": ["HTML", "CSS", "JS"],
+    "demo": "https://doubtfull.github.io/Couch-Games/",
+    "source": "https://github.com/Doubtfull/Couch-Games"
+  },
+  {
+    "title": "Link Far From Home",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Python"],
+    "demo": "https://hwdsb.elearningontario.ca/d2l/lms/dropbox/user/folders_history.d2l?db=36194215&grpid=0&isprv=0&bp=0&ou=26142396",
+    "source": "https://hwdsb.elearningontario.ca/d2l/lms/dropbox/user/folders_history.d2l?db=36194215&grpid=0&isprv=0&bp=0&ou=26142396"
+  }
+]
