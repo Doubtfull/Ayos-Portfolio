@@ -28,14 +28,24 @@
 
 .menuItems {
   display: flex;
-  gap: 47px;
+  gap: 10px;
   list-style: none;
+}
+.menuItems a:hover {
+  background-color: rgba(255, 255, 255, 0.137);
+  
 }
 
 .menuItems a {
+  border-radius: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 8px;
+  padding-bottom: 8px;
   font-size: 25px;
   color: var(--color-text);
   text-decoration: none;
+  transition: background-color 0.5s;
 }
 
 @media screen and (max-width: 830px) {
@@ -73,6 +83,10 @@
     );
     padding: 24px 33px;
     box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
+  }
+
+  .menuItems a:hover {
+    background-color: #ffffff13;
   }
 
   .menuOpen {
