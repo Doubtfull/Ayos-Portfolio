@@ -9,10 +9,10 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Ayo</h1>
         <p className={styles.description}>
-          This is my e-portfolio in It's current state.
+        A tech-savvy high school student passionate about coding, aiming to become a computer engineer.<br/>Skilled in web development and programming, they are eager to keep learning and building for the future.
         </p>
-        <a href="mailto:myemail@email.com" className={styles.contactBtn}>
-          Contact Me
+        <a href="https://flowcv.com/resume/j4rfwmqf3a" className={styles.contactBtn}>
+          RESUME
         </a>
       </div>
       <img

@@ -1,51 +1,51 @@
 [
   {
     "title": "Couch Games",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project was my first website.",
+    "imageSrc": "projects/CouchGames.png",
+    "description": "This is a project was my first website. A video game recommendation website that helps players discover new games tailored to their tastes. Find personalized game suggestions, reviews, and ratings across all genres and platforms.",
     "skills": ["HTML", "CSS", "JS"],
     "demo": "https://doubtfull.github.io/Couch-Games/",
     "source": "https://github.com/Doubtfull/Couch-Games"
   },
   {
     "title": "Python Platformmer",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/Pygame.png",
     "description": "In this Python platformer, you play as a pirate jumping on enemies and collecting treasures. I used Pygame to implement mechanics like jumping, collision detection, and user input. This project helped me improve my Python skills and learn 2D game design and game state management. ",
     "skills": ["Python", "Pygame"],
-    "demo": "https://hwdsb.elearningontario.ca/d2l/lms/dropbox/user/folders_history.d2l?db=36194215&grpid=0&isprv=0&bp=0&ou=26142396",
-    "source": "s"
+    "demo": "https://drive.google.com/drive/folders/1GnZkQTIAFwsBvILpASRP5u_pjLuq2C0A?usp=sharing",
+    "source": "https://drive.google.com/drive/folders/1GnZkQTIAFwsBvILpASRP5u_pjLuq2C0A?usp=sharing"
   },
   {
     "title": "Link Far From Home",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/Link.png",
     "description": "In this 2D platformer, you control Link as he navigates through challenging levels to save the kingdom. Armed only with his sword, he must jump and fight enemies while exploring vibrant environments. This is an improvement from what I learned from the Python Platformer.",
     "skills": ["Python", "Pygame"],
-    "demo": "https://hwdsb.elearningontario.ca/d2l/lms/dropbox/user/folders_history.d2l?db=36194215&grpid=0&isprv=0&bp=0&ou=26142396",
-    "source": "https://hwdsb.elearningontario.ca/d2l/lms/dropbox/user/folders_history.d2l?db=36194215&grpid=0&isprv=0&bp=0&ou=26142396"
+    "demo": "https://drive.google.com/drive/folders/1GnZkQTIAFwsBvILpASRP5u_pjLuq2C0A?usp=sharing",
+    "source": "https://drive.google.com/drive/folders/1GnZkQTIAFwsBvILpASRP5u_pjLuq2C0A?usp=sharing"
   },
   {
     "title": "Ayo Weather App",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/Weather.png",
     "description": "The weather app provides real-time weather updates, including current conditions, forecasts, and temperature details, tailored to your location. I learned how to make a PWA using html, css, and javascript.",
     "skills": ["HTML", "CSS", "JS"],
-    "demo": "https://hwdsb.elearningontario.ca/d2l/lms/dropbox/user/folders_history.d2l?db=36194215&grpid=0&isprv=0&bp=0&ou=26142396",
-    "source": "s"
+    "demo": "https://doubtfull.github.io/Weather-App/",
+    "source": "https://github.com/Doubtfull/Weather-App?tab=readme-ov-file"
   },
   {
     "title": "Mario Open AI",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/mario.png",
     "description": "This project uses reinforcement learning to train an AI to play a Mario-style platformer. Using Python and RL libraries, the model learns by trial and error to improve its gameplay. I gained experience with RL, and training AI agents in dynamic environments.",
     "skills": ["Python", "Gym", "Pytorch"], 
-    "demo": "https://hwdsb.elearningontario.ca/d2l/lms/dropbox/user/folders_history.d2l?db=36194215&grpid=0&isprv=0&bp=0&ou=26142396",
-    "source": "s"
+    "demo": "https://drive.google.com/drive/folders/1wiTWmqMRNO3DCoac6O3iKReGrfAZjhBC?usp=sharing",
+    "source": "https://drive.google.com/drive/folders/1wiTWmqMRNO3DCoac6O3iKReGrfAZjhBC?usp=sharing"
   }
   ,
   {
     "title": "CodeCademy",
-    "imageSrc": "projects/project.png",
-    "description": "This project uses reinforcement learning to train an AI to play a Mario-style platformer. Using Python and RL libraries, the model learns by trial and error to improve its gameplay. I gained experience with RL, neural networks, and training AI agents in dynamic environments.",
+    "imageSrc": "projects/code.png",
+    "description": "A slideshow presentation on about me using Codecademy to learn TypeScript and SQL. It covers key features, learning paths, and how these skills can enhance web development and data management capabilities for beginners and experienced coders alike.",
     "skills": ["TypeScript", "SQL"], 
-    "demo": "https://hwdsb.elearningontario.ca/d2l/lms/dropbox/user/folders_history.d2l?db=36194215&grpid=0&isprv=0&bp=0&ou=26142396",
-    "source": "s"
+    "demo": "https://hwdsbonca-my.sharepoint.com/:p:/g/personal/aabraham3079_hwdsb_on_ca/Eed7ka0IpENLqV_m4a6HMowB1Rl8UT3XjtS19-y9lqohfA?e=7LeP0d",
+    "source": "https://hwdsbonca-my.sharepoint.com/:p:/g/personal/aabraham3079_hwdsb_on_ca/Eed7ka0IpENLqV_m4a6HMowB1Rl8UT3XjtS19-y9lqohfA?e=7LeP0d"
   }
 ]

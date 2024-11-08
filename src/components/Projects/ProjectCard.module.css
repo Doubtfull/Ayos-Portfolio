@@ -12,12 +12,14 @@
 }
 
 .container:hover {
-  transform: translateY(-20px);
+  transform: translateY(-10px);
 }
 
 .image {
   margin-bottom: 26px;
   height: 200px;
+  border-radius: 20px;
+  object-fit: cover;
 }
 
 .title {
