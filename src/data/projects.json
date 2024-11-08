@@ -8,10 +8,18 @@
     "source": "https://github.com/Doubtfull/Couch-Games"
   },
   {
+    "title": "Python Platformmer",
+    "imageSrc": "projects/project.png",
+    "description": "In this Python platformer, you play as a pirate jumping on enemies and collecting treasures. I used Pygame to implement mechanics like jumping, collision detection, and user input. This project helped me improve my Python skills and learn 2D game design and game state management. ",
+    "skills": ["Python", "Pygame"],
+    "demo": "https://hwdsb.elearningontario.ca/d2l/lms/dropbox/user/folders_history.d2l?db=36194215&grpid=0&isprv=0&bp=0&ou=26142396",
+    "source": "s"
+  },
+  {
     "title": "Link Far From Home",
     "imageSrc": "projects/project.png",
     "description": "In this 2D platformer, you control Link as he navigates through challenging levels to save the kingdom. Armed only with his sword, he must jump and fight enemies while exploring vibrant environments. This is an improvement from what I learned from the Python Platformer.",
-    "skills": ["Python"],
+    "skills": ["Python", "Pygame"],
     "demo": "https://hwdsb.elearningontario.ca/d2l/lms/dropbox/user/folders_history.d2l?db=36194215&grpid=0&isprv=0&bp=0&ou=26142396",
     "source": "https://hwdsb.elearningontario.ca/d2l/lms/dropbox/user/folders_history.d2l?db=36194215&grpid=0&isprv=0&bp=0&ou=26142396"
   },
@@ -19,23 +27,24 @@
     "title": "Ayo Weather App",
     "imageSrc": "projects/project.png",
     "description": "The weather app provides real-time weather updates, including current conditions, forecasts, and temperature details, tailored to your location. I learned how to make a PWA using html, css, and javascript.",
-    "skills": ["Python"],
-    "demo": "https://hwdsb.elearningontario.ca/d2l/lms/dropbox/user/folders_history.d2l?db=36194215&grpid=0&isprv=0&bp=0&ou=26142396",
-    "source": "s"
-  },
-  {
-    "title": "Python Platformmer",
-    "imageSrc": "projects/project.png",
-    "description": "In this Python platformer, you play as a pirate jumping on enemies and collecting treasures. I used Pygame to implement mechanics like jumping, collision detection, and user input. This project helped me improve my Python skills and learn 2D game design and game state management. ",
-    "skills": ["Python"],
+    "skills": ["HTML", "CSS", "JS"],
     "demo": "https://hwdsb.elearningontario.ca/d2l/lms/dropbox/user/folders_history.d2l?db=36194215&grpid=0&isprv=0&bp=0&ou=26142396",
     "source": "s"
   },
   {
     "title": "Mario Open AI",
     "imageSrc": "projects/project.png",
+    "description": "This project uses reinforcement learning to train an AI to play a Mario-style platformer. Using Python and RL libraries, the model learns by trial and error to improve its gameplay. I gained experience with RL, and training AI agents in dynamic environments.",
+    "skills": ["Python", "Gym", "Pytorch"], 
+    "demo": "https://hwdsb.elearningontario.ca/d2l/lms/dropbox/user/folders_history.d2l?db=36194215&grpid=0&isprv=0&bp=0&ou=26142396",
+    "source": "s"
+  }
+  ,
+  {
+    "title": "CodeCademy",
+    "imageSrc": "projects/project.png",
     "description": "This project uses reinforcement learning to train an AI to play a Mario-style platformer. Using Python and RL libraries, the model learns by trial and error to improve its gameplay. I gained experience with RL, neural networks, and training AI agents in dynamic environments.",
-    "skills": ["Python, Gym, Tensorboard, Stable-Baselines3"], 
+    "skills": ["TypeScript", "SQL"], 
     "demo": "https://hwdsb.elearningontario.ca/d2l/lms/dropbox/user/folders_history.d2l?db=36194215&grpid=0&isprv=0&bp=0&ou=26142396",
     "source": "s"
   }
