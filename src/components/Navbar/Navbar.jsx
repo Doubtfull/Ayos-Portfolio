@@ -8,7 +8,7 @@ export const Navbar = () => {
 
   return (
     <nav className={styles.navbar}>
-      <a className={styles.title} href="/">
+      <a className={styles.title} href="https://doubtfull.github.io/Ayos-Portfolio/">
         A.A
       </a>
       <div className={styles.menu}>
