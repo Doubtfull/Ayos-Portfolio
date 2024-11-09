@@ -11,7 +11,7 @@ export const Hero = () => {
         <p className={styles.description}>
         A tech-savvy high school student passionate about coding, aiming to become a computer engineer.<br/>Skilled in web development and programming, they are eager to keep learning and building for the future.
         </p>
-        <a href="https://flowcv.com/resume/j4rfwmqf3a" className={styles.contactBtn}>
+        <a href="https://flowcv.com/resume/j4rfwmqf3a" className={styles.contactBtn} target="_blank" rel="noopener noreferrer">
           RESUME
         </a>
       </div>

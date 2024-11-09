@@ -8,7 +8,7 @@
     "source": "https://github.com/Doubtfull/Couch-Games"
   },
   {
-    "title": "Python Platformmer",
+    "title": "PyPlatformmer",
     "imageSrc": "projects/Pygame.png",
     "description": "In this Python platformer, you play as a pirate jumping on enemies and collecting treasures. I used Pygame to implement mechanics like jumping, collision detection, and user input. This project helped me improve my Python skills and learn 2D game design and game state management. ",
     "skills": ["Python", "Pygame"],
@@ -24,19 +24,19 @@
     "source": "https://drive.google.com/drive/folders/1GnZkQTIAFwsBvILpASRP5u_pjLuq2C0A?usp=sharing"
   },
   {
-    "title": "Ayo Weather App",
-    "imageSrc": "projects/Weather.png",
+    "title": "Ayo's Weather App",
+    "imageSrc": "projects/Weath.png",
     "description": "The weather app provides real-time weather updates, including current conditions, forecasts, and temperature details, tailored to your location. I learned how to make a PWA using html, css, and javascript.",
     "skills": ["HTML", "CSS", "JS"],
     "demo": "https://doubtfull.github.io/Weather-App/",
     "source": "https://github.com/Doubtfull/Weather-App?tab=readme-ov-file"
   },
   {
-    "title": "Mario Open AI",
+    "title": "Mario RL Model",
     "imageSrc": "projects/mario.png",
-    "description": "This project uses reinforcement learning to train an AI to play a Mario-style platformer. Using Python and RL libraries, the model learns by trial and error to improve its gameplay. I gained experience with RL, and training AI agents in dynamic environments.",
+    "description": "This project uses reinforcement learning to train an AI to play Super Mario Bros. Using Python and RL libraries, the model learns by trial and error to improve its gameplay. I gained experience with RL, and training AI agents in dynamic environments.",
     "skills": ["Python", "Gym", "Pytorch"], 
-    "demo": "https://drive.google.com/drive/folders/1wiTWmqMRNO3DCoac6O3iKReGrfAZjhBC?usp=sharing",
+    "demo": "https://hwdsbonca-my.sharepoint.com/:p:/g/personal/aabraham3079_hwdsb_on_ca/EcKzGW1upPhFt31bnXt5e4sBRqgPYJiy7RtjfRo1dHuPyA?e=5gndwk",
     "source": "https://drive.google.com/drive/folders/1wiTWmqMRNO3DCoac6O3iKReGrfAZjhBC?usp=sharing"
   }
   ,
