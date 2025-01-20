@@ -1,15 +1,15 @@
 [
   {
-    "role": "McMaster Laboratory Assistant",
-    "organisation": "Google",
+    "role": "Laboratory Assistant",
+    "organisation": "McMaster",
     "startDate": "Sept, 2023",
     "endDate": "Jan, 2024",
     "experiences": ["Managed the labs", "Aided students with their projects"],
     "imageSrc": "history/mcmasterlogo.png"
   },
   {
-    "role": "McMaster Event Coordinator",
-    "organisation": "Mirosoft",
+    "role": "Event Coordinator",
+    "organisation": "McMaster",
     "startDate": "Jun, 2022",
     "endDate": "Aug, 2022",
     "experiences": ["Created a workshop for highschool students", "Designed the lab experiments"],
