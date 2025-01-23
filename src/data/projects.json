@@ -51,37 +51,37 @@
   ,
   {
     "title": "Careers with AI",
-    "imageSrc": "projects/code.png",
-    "description": "A slideshow presentation on about me using Codecademy to learn TypeScript and SQL. It covers key features, learning paths, and how these skills can enhance web development and data management capabilities for beginners and experienced coders alike.",
-    "skills": ["TypeScript", "SQL"], 
-    "demo": "https://hwdsbonca-my.sharepoint.com/:p:/g/personal/aabraham3079_hwdsb_on_ca/Eed7ka0IpENLqV_m4a6HMowB1Rl8UT3XjtS19-y9lqohfA?e=7LeP0d",
-    "source": "https://hwdsbonca-my.sharepoint.com/:p:/g/personal/aabraham3079_hwdsb_on_ca/Eed7ka0IpENLqV_m4a6HMowB1Rl8UT3XjtS19-y9lqohfA?e=7LeP0d"
+    "imageSrc": "projects/Careers.png",
+    "description": "This is a slideshow presentation about my research on a career in the tech field and how it's affected or how it's going to be affected by AI. The career that I based my research on was a Cybersecurity Engineer.",
+    "skills": ["AI", "C++"], 
+    "demo": "https://hwdsbonca-my.sharepoint.com/:p:/g/personal/aabraham3079_hwdsb_on_ca/EcI15cgtO4hPorC0TLTPy6MB4iDTpjnqFvJokwV8Ni_c7Q?e=RCpWXR",
+    "source": "https://hwdsbonca-my.sharepoint.com/:p:/g/personal/aabraham3079_hwdsb_on_ca/EcI15cgtO4hPorC0TLTPy6MB4iDTpjnqFvJokwV8Ni_c7Q?e=RCpWXR"
   }
   ,
   {
-    "title": "Mario RL Model DFD",
+    "title": "Mario RL Model DFDs",
     "imageSrc": "projects/DFD.png",
-    "description": "A slideshow presentation on about me using Codecademy to learn TypeScript and SQL. It covers key features, learning paths, and how these skills can enhance web development and data management capabilities for beginners and experienced coders alike.",
-    "skills": ["Python", "Pygame"], 
-    "demo": "https://hwdsbonca-my.sharepoint.com/:p:/g/personal/aabraham3079_hwdsb_on_ca/Eed7ka0IpENLqV_m4a6HMowB1Rl8UT3XjtS19-y9lqohfA?e=7LeP0d",
-    "source": "https://hwdsbonca-my.sharepoint.com/:p:/g/personal/aabraham3079_hwdsb_on_ca/Eed7ka0IpENLqV_m4a6HMowB1Rl8UT3XjtS19-y9lqohfA?e=7LeP0d"
+    "description": "This project is a data flow diagram of the Mario reinforcement model AI with 3 different levels. The level 1 DFD covers level 1-1 and the detailed mechanics of how the game functions. There is a level 0 is a simple overview of the game and level 2 is the functionality of the AI.",
+    "skills": ["Python", "Gym AI"], 
+    "demo": "https://drive.google.com/drive/folders/1qDSAsPJUmHXYjYNnYIU3p8Yszv5yXEf6?usp=sharing",
+    "source": "https://drive.google.com/drive/folders/1qDSAsPJUmHXYjYNnYIU3p8Yszv5yXEf6?usp=sharing"
   }
   ,
   {
-    "title": "Classroom Tour",
-    "imageSrc": "projects/CSSim.png",
+    "title": "Classroom Simulation",
+    "imageSrc": "projects/CSClassModel.gif",
     "description": "This application is a 3D classroom tour of Saltfleet's computer science classroom. This program uses unity and C#, and is almost a 1 to 1 recreation of the classroom. They are a wide variety of interactable objects such as chairs, stools, utility cars.",
     "skills": ["Unity", "CSharp"], 
-    "demo": "https://hwdsbonca-my.sharepoint.com/:p:/g/personal/aabraham3079_hwdsb_on_ca/Eed7ka0IpENLqV_m4a6HMowB1Rl8UT3XjtS19-y9lqohfA?e=7LeP0d",
-    "source": "https://hwdsbonca-my.sharepoint.com/:p:/g/personal/aabraham3079_hwdsb_on_ca/Eed7ka0IpENLqV_m4a6HMowB1Rl8UT3XjtS19-y9lqohfA?e=7LeP0d"
+    "demo": "https://drive.google.com/drive/folders/1RxTCNiwbmoQbgetQM-Bn2Ag0dIQwnY0h?usp=sharing",
+    "source": "https://drive.google.com/drive/folders/1RxTCNiwbmoQbgetQM-Bn2Ag0dIQwnY0h?usp=sharing"
   }
   ,
   {
     "title": "Fight or Flight",
-    "imageSrc": "projects/FoF.png",
+    "imageSrc": "projects/FoF.gif",
     "description": "This game is an airplane simulator with two levels: Explore and Mission. This game was created with unity and C#. The game uses realsitic plane physics by using components like lift, drag, G-force, angle of attack and altitude.",
     "skills": ["Unity", "CSharp"], 
-    "demo": "https://hwdsbonca-my.sharepoint.com/:p:/g/personal/aabraham3079_hwdsb_on_ca/Eed7ka0IpENLqV_m4a6HMowB1Rl8UT3XjtS19-y9lqohfA?e=7LeP0d",
-    "source": "https://hwdsbonca-my.sharepoint.com/:p:/g/personal/aabraham3079_hwdsb_on_ca/Eed7ka0IpENLqV_m4a6HMowB1Rl8UT3XjtS19-y9lqohfA?e=7LeP0d"
+    "demo": "https://drive.google.com/drive/folders/1cBnO6c0Zihei_khR0QxU1GEn_wArx1AZ?usp=sharing",
+    "source": "https://drive.google.com/drive/folders/1cBnO6c0Zihei_khR0QxU1GEn_wArx1AZ?usp=sharing"
   }
 ]
